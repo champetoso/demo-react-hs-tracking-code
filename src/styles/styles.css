@@ -1,0 +1,18 @@
+h1 {
+  color: orange;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+}
+p {
+  color: gray;
+  font-family: courier;
+  font-size: 160%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 500px;
+}
